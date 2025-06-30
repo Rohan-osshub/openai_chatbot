@@ -1,0 +1,11 @@
+openai
+pyaudio
+numpy
+pyttsx3
+langdetect
+requests
+DuckDuckGoSearch
+pillow
+langchain
+langchain_community
+playsound
